@@ -1,13 +1,12 @@
-# These are supported funding model platforms
 
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
-lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+{'ver1':'10', 'ver2':'00', 'ver3':'\n•[تحديث قاعدة]واتساب الى 2.22.2.73 \n•[حصريا]اضافة خيار حفظ الميديا عند تفعيل خيار عدم الحقظ في الاستديو\n•[اضافة]شكل الجديد لمعلومات جهات الاتصال \n•[اضافة] خيار الاشعارات عند مشاهدة الحالة\n•[اضافة]خطوط جديده خطوط ايفون\n•[اضافة]خيار لاخفاء زر تحميل الحالات > اضافات الذهبي > الخصوصيه\n•[اضافة]الترجمة داخل المحادثة مباشر \n•[اضافة]خيار لاختيار بين الترجمة الفورية وترجمة غوغل \n•[اضافة]عداد الرسائل في صفحة مشاهدة جميع الرسائل المرسلة من قبل شخص معين \n•[اضافة]خيار تنظيف جميع الملفات الغير مفيدة \n•[اصلاح]مشكلة الباك اب تأخذ مساحة كبيرة \n•[اصلاح]فتح المحادثة عن طريق الويدجايت عند قفل المحادثة \n•[اصلاح]خيار الاتصال عبر الهاتف يظهر احيانا رقم غير \n•[اصلاح]العديد من الامور الاخرى ونسيت ما هي \n•[اصلاح]جميع مشاكل الانهيارات \n•[مزيد] من الاصلاحات والاضافات اكتشفها بنفسك\n' , 'dli':'https://bit.ly/38Vzupc'}
+
+
+
+
+
+
+
+
+
+
